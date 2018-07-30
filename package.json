@@ -4,6 +4,9 @@
   "description": "Starter kit for React and Redux",
   "author": "MANJEET VERMA",
   "license": "MIT",
+  "scripts": {
+    "start": "babel-node tools/srcServer.js"
+  },
   "dependencies": {
     "babel-polyfill": "6.26.0",
     "bootstrap": "4.1.3",
